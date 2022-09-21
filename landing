@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="zxx">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    <link rel="stylesheet" href="asset/css/stylecss.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap" rel="stylesheet">
+
+</head>
+<body>
+    <!--encabezado-->
+    <header>
+        <div class="container">
+            <div class="row">
+                <h1 class="logo"><a href="#">Logo</a></h1>
+                <nav class="header-menu">
+                    <ul>
+                        <li class="active"><a href="#">Home</a></li>
+                        <li><a href="#">About</a></li>
+                        <li><a href="#">Team</a></li>
+                        <li><a href="#">Portfolio</a></li>
+                        <li><a href="#">Contact</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>
+    <!--contenido general-->
+    <main>
+        <!--We Build Awesome Wireframe-->
+        <section class="background-blue">
+            <div class="container">
+              <div class="row">
+                 <div class="column">
+                    <h2>We Build Awesome Wireframe</h2>
+                      <p>A Template by Your Company</p>
+                      <img src="./asset/img/macbook-pro.png" alt="computer" class="Macbook_Pro">
+                  </div>
+              </div>
+            </div>
+        </section>
+        <!--About us-->
+        <section>
+            <div class="container">
+                <div class="row">
+                   <div class="column">
+                      <h2>About us</h2>
+                       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis hic alias incidunt, voluptatem dignissimos cum dicta exercitationem asperiores omnis, aliquid sunt quos sit aspernatur aperiam! Et voluptatem laudantium reprehenderit qui?</p>
+                       <img src="./asset/img/ipad-air.png" alt="ipad" class="Mackbook_Pro">
+                       <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Modi amet provident corrupti quam nemo itaque ex quibusdam magni nesciunt officia laboriosam veritatis obcaecati adipisci, quis consequuntur ipsam incidunt suscipit illo consectetur. Porro, ipsam praesentium! Magnam veniam doloribus quia eveniet perspiciatis rem id porro placeat quaerat animi, ea itaque incidunt voluptates?</p>
+                    </div>
+                </div>
+              </div>
+        </section>
+        <!--Our Team-->
+        <section class="background-gray">
+            <div class="container">
+                <div class="row">
+                   <div class="column">
+                      <h2>Our Team</h2>
+                       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae quos reprehenderit id atque sunt eaque placeat. Ipsam impedit voluptate ad deserunt, saepe laboriosam reprehenderit beatae, exercitationem autem, molestias laborum maiores?</p>
+                       <div class="box">
+                        <img src="./asset/img/user-male.png" alt="icon user male" class="img-user">
+                        <h3>Name</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id quis nam harum aperiam sint. Perspiciatis!</p>
+                        <div><a href="#" class="boton"><img src="./asset/img/button.png" alt="button-message"></a></div>
+                       </div>
+                       <div class="box">
+                        <img src="./asset/img/user-female.png" alt="icon user female" class="img-user">
+                        <h3>Name</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id quis nam harum aperiam sint. Perspiciatis!</p>
+                        <div><a href="#" class="boton"><img src="./asset/img/button.png" alt="button-message"></a></div>
+                       </div>
+                      <div class="box">
+                        <img src="./asset/img/user-male.png" alt="icon user male" class="img-user">
+                        <h3>Name</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum debitis fuga eos excepturi esse eum.</p>
+                        <div><a href="#" class="boton"><img src="./asset/img/button.png" alt="button-message"></a></div>
+                      </div>
+                      <div class="box">
+                        <img src="./asset/img/user-female.png" alt="icon user female" class="img-user">
+                        <h3>Name</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum debitis fuga eos excepturi esse eum.</p>
+                        <div><a href="#" class="boton"><img src="./asset/img/button.png" alt="button-message"></a></div>
+                       </div>
+                    </div>
+                </div>
+              </div>
+        </section>
+        <section>
+            <div class="container">
+                <div class="row">
+                   <div class="column">
+                    <h2>Portfolio</h2>
+                       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae quos reprehenderit id atque sunt eaque placeat. Ipsam impedit voluptate ad deserunt, saepe laboriosam reprehenderit beatae, exercitationem autem, molestias laborum maiores?</p>
+                        <nav class="section-portfolio">
+                            <ul>
+                                <li class="activate2"><a href="#">All</a></li>
+                                <li><a href="#">Design</a></li>
+                                <li><a href="#">Identity</a></li>
+                                <li><a href="#">Photography</a></li>
+                                <li><a href="#">Ilustration</a></li>
+                            </ul>
+                           </nav>
+                       <div class="box2">
+                        <figure>
+                            <h2>Image</h2>
+                            <figcaption>
+                            <h3>Title</h3>
+                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+                        </figcaption></figure>
+                       </div> 
+                       <div class="box2">
+                        <figure>
+                            <h2>Image</h2>
+                            <figcaption>
+                            <h3>Title</h3>
+                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+                        </figcaption></figure>
+                       </div>
+                       <div class="box2">
+                        <figure>
+                            <h2>Image</h2>
+                            <figcaption>
+                            <h3>Title</h3>
+                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+                        </figcaption></figure>
+                       </div>
+                       <div class="box2">
+                        <figure>
+                            <h2>Image</h2>
+                            <figcaption>
+                            <h3>Title</h3>
+                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+                        </figcaption></figure>
+                       </div>
+                       <div class="box2">
+                        <figure>
+                            <h2>Image</h2>
+                            <figcaption>
+                            <h3>Title</h3>
+                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+                        </figcaption></figure>
+                       </div>
+                       <a href="#" class="enlace">#</a>
+                       <div class="box2">
+                        <figure>
+                            <h2>Image</h2>
+                            <figcaption>
+                            <h3>Title</h3>
+                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+                        </figcaption></figure>
+                       </div>
+                       <div class="box2">
+                        <figure>
+                            <h2>Image</h2>
+                            <figcaption>
+                            <h3>Title</h3>
+                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+                        </figcaption></figure>
+                       </div>
+                       <div class="box2">
+                        <figure>
+                            <h2>Image</h2>
+                            <figcaption>
+                            <h3>Title</h3>
+                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+                        </figcaption></figure>
+                       </div>
+                    </div>
+                </div>
+              </div>
+        </section>
+        <section class="background-gray">
+            <div class="container">
+                <div class="row">
+                   <div class="column">
+                      <h2>Contact</h2>
+                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate excepturi natus maiores temporibus suscipit obcaecati, hic est dicta, quo doloremque quod, ducimus autem earum? Fugiat aliquid eius recusandae voluptatem sunt!</p>
+                      <form class="form2" id="form-contact">
+                        <label for="name">Enter your Name</label>
+                        <input type="text" id="name" class="boxing">
+                        <label for="direction">Enter your Address</label>
+                        <input type="text" id="direction" class="boxing">
+                        <label for="mail">Enter your Email Address</label>
+                        <input type="email" id="mail" class="boxing">
+                        <label for="message">Enter your Email Message</label>
+                        <input type="text" id="message" class="boxing">
+                        <input type="submit" id="submit" class="bottom-barb" value="Submit">
+                    </form>
+                    </div>
+                </div>
+              </div>
+        </section>
+    </main>
+    <footer>
+        <div class="container">
+            <div class="row">
+                <nav class="footer-menu">
+                    <ul>
+                        <li><a href="#">Home</a></li>
+                        <li><a href="#">About</a></li>
+                        <li><a href="#">Team</a></li>
+                        <li><a href="#">Portfolio</a></li>
+                        <li><a href="#">Contact</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+        <p>Copyright Your Company 2014. All Rights Reserved</p>
+    </footer>
+</body>
+</html>
